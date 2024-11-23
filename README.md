@@ -1,5 +1,4 @@
-<h1>Hola[![image](https://github.com/user-attachments/assets/3134f995-2e8f-4092-b5cc-3ff23fea4189)
-](https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fe.gif), soy Jose</h1>
+<h1>Hola 👋🏾, soy Jose</h1>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
