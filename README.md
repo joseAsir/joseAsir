@@ -77,8 +77,8 @@ Me especializo en la administración de infraestructuras, la automatización y l
 </li>
 </ul>
 <h2>⚡️ Dónde encontrarme</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/jos%C3%A9-lahoucine-ait-aliouabdellah-bravo-2a68a4316/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contacto_jose@gmail.com" target="_blank" style="display: inline-block;">
+<p><a target="_blank" href="https://www.linkedin.com/in/jos%C3%A9-lahoucine-ait-aliouabdellah-bravo-2a68a4316/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=joselahocine@gmail.com" target="_blank" style="display: inline-block;">
 <img src="https://img.shields.io/badge/GMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </p>
